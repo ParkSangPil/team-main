@@ -75,7 +75,7 @@ $(function(){
 				
 			}, 
 			error: function() {
-				console.log("띠용 진짜 이건 뭔 오류지?");
+				console.log("오류가 발생했습니다 오류코드 4404");
 			}
 			
 		});
