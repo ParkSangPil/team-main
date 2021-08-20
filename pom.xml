@@ -44,7 +44,7 @@
 		<dependency>
 		    <groupId>com.sun.mail</groupId>
 		    <artifactId>javax.mail</artifactId>
-		    <version>1.6.0</version>
+		    <version>1.6.2</version>
 		</dependency>
 		<!-- spring security -->
 		<!-- https://mvnrepository.com/artifact/org.springframework.security/spring-security-web -->
